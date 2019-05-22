@@ -1,0 +1,38 @@
+.a1{
+    border: 1px solid #efefef;
+    width: 600px;
+    margin: auto;
+    background-color: white;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+}
+.a2{
+      display: block;
+margin-left: auto;
+margin-right: auto;
+width: 600PX;
+
+
+}
+.c1{
+width: 600px;
+height: 40px;
+}
+.c2{
+width: 600px;
+height: 60px;
+}
+.avatar{
+height: 50px;
+border-radius: 50%;
+padding:  4px;
+float: left;
+
+}
+.c4{
+
+width: 30px;
+padding: 6px;
+
+}
